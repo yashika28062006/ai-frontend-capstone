@@ -13,7 +13,12 @@ This repository contains my capstone project for the Front-end AI Engineering tr
 
 ## Tech Stack
 
-The technology stack will be finalized as the project develops.
+* React
+* JavaScript
+* Node.js
+* HTML
+* CSS
+* Git and GitHub
 
 ## Development
 
