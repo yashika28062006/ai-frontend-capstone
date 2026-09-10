@@ -44,3 +44,10 @@ Before making significant changes:
 3. Make the smallest appropriate change.
 4. Explain important changes clearly.
 5. Avoid changing unrelated functionality.
+
+## Code Quality
+
+- Use meaningful variable and function names.
+- Keep functions small and readable.
+- Avoid duplicate code.
+- Prefer simple solutions over unnecessary complexity.
