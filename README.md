@@ -18,3 +18,7 @@ The technology stack will be finalized as the project develops.
 ## Development
 
 This project is developed incrementally using Git, GitHub, and AI-assisted development tools.
+
+## Project Status
+
+🚧 Currently in setup and development.
