@@ -51,3 +51,9 @@ Before making significant changes:
 - Keep functions small and readable.
 - Avoid duplicate code.
 - Prefer simple solutions over unnecessary complexity.
+## Project-Specific Rules
+
+- Frontend components must use React functional components and hooks; do not introduce class components.
+- Forms must use semantic labels and accessible error handling with `aria-invalid` and `aria-describedby` when validation errors are shown.
+- Reusable form components must keep save logic injectable through an async callback such as `onSave(values)` instead of embedding API requests.
+- Do not add new frontend dependencies when the existing React/Vite setup or Node built-in tooling can satisfy the requirement.
